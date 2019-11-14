@@ -1,0 +1,26 @@
+{
+  "name": "NobodyCaresWhatTheRepoIsCalled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalmia007/NobodyCaresWhatTheRepoIsCalled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalmia007/NobodyCaresWhatTheRepoIsCalled/issues"
+  },
+  "homepage": "https://github.com/dalmia007/NobodyCaresWhatTheRepoIsCalled#readme"
+}
