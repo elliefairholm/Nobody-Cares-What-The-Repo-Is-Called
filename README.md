@@ -21,8 +21,6 @@ GOOD LUCK!👍
 
 ### 2.1. Examples
 
-Add your examples here.
-
 ```js
 dash(274) // returns "2-7-4"
 dash(5311) //returns "5-3-1-1"
