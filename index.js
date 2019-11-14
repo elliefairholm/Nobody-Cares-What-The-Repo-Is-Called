@@ -9,7 +9,10 @@
 // Refer to Test for More Examples
 
 function dash(num) {
-  
+  if (isNaN(num)) return 'NaN';
+  else {
+    return String(num).replace(/[13579]/g,'-$&-').replace(/--/g, '-').replace(/^-|-$/g,''); 
+  }
 };
 
 module.exports = dash;
